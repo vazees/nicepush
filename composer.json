@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ConsoleCommandTool\\": "ConsoleCommandTool/",
+            "ConsoleCommandTool\\Service\\": "ConsoleCommandTool/Service/",
+            "ConsoleCommandTool\\Command\\": "ConsoleCommandTool/Command/",
+            "ConsoleCommandTool\\Entity\\": "ConsoleCommandTool/Entity/",
+            "Application\\CustomCommand\\": "Application/CustomCommand/"
+        }
+    }
+}
